@@ -14,7 +14,7 @@ This project deploys MongoDB and Mongo Express on a local Kubernetes cluster usi
 You need to enter this in terminal in this order:
 
 minikube start #Starts and runs minikube
-kubectl apply -f manifests/mongodb-secret.yaml #applies the configuration files
+kubectl apply -f manifests/mongodb-secret.yaml #applies the yaml files
 kubectl apply -f manifests/mongo-configmap.yaml
 kubectl apply -f manifests/mongodb-deployment.yaml
 kubectl apply -f manifests/mongo-express.yaml
