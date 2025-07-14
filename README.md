@@ -20,6 +20,8 @@ Install the following tools:
 | **Docker Desktop** | [Docker for macOS](https://www.docker.com/products/docker-desktop/)           | [Docker for Windows](https://www.docker.com/products/docker-desktop/)            |
 | **VS Code (optional)** | [VS Code](https://code.visualstudio.com/Download)                         | [VS Code](https://code.visualstudio.com/Download)                                 |
 
+I use VS for editing YAML files, but it's optional!
+
 ---
 
 ## 🗂️ Project Structure
