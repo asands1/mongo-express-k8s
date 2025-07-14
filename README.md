@@ -123,8 +123,9 @@ Now you can:
 
 ## 🧼 To Tear It Down
 
-kubectl delete -f manifests/
-minikube stop
+kubectl delete -f manifests/ #deletes your deployments and services
+
+minikube stop #stops minikube
 
 
 ---
