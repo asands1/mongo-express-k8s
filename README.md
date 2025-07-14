@@ -26,4 +26,4 @@ minikube service mongodb-express-service --url #this will give you an IP:port. C
 
 Next: You will get a prompt for username and password. 
 
-After that you will have access to the Mongo-DB
+After that you will have access to Mongo-express and you create a db
