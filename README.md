@@ -54,7 +54,7 @@ minikube start
 ---
 
 ### ✅ 2. Apply the Kubernetes YAML files
-Make sure you're in the project root directory. Then run:
+Make sure you're in the project root directory (pwd in terminal will give you the current working directory) Then run (in terminal):
 
 
 kubectl apply -f manifests/mongodb-secret.yaml
