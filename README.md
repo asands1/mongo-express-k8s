@@ -5,16 +5,10 @@ It’s ideal for testing a local database environment with a visual interface fo
 
 ---
 
-## 🚀 Quick Start (macOS & Windows)
-
-#in terminal
-
-git clone https://github.com/asands1/mongo-express-k8s.git
-
-cd mongo-express-k8s
 
 
-### ✅ 2. Prerequisites
+
+### ✅ 1. Prerequisites
 
 Install the following tools:
 
@@ -37,9 +31,20 @@ Install the following tools:
 | `mongo-configmap.yaml`    | ConfigMap for MongoDB hostname                     |
 | `mongodb-secret.yaml`     | Secret for encoding MongoDB credentials            |
 
+
+2. ## 🚀 Quick Start (macOS & Windows)
+
+#in terminal
+
+git clone https://github.com/asands1/mongo-express-k8s.git
+
+cd mongo-express-k8s
+
 ---
 
 ## ⚙️ Usage Steps
+
+
 
 ### ✅ 1. Start Minikube
 
