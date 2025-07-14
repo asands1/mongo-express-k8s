@@ -59,9 +59,13 @@ minikube start
 Make sure you're in the project root directory (pwd in terminal will give you the current working directory) Then run (in terminal):
 
 
+
 kubectl apply -f manifests/mongodb-secret.yaml
+
 kubectl apply -f manifests/mongo-configmap.yaml
+
 kubectl apply -f manifests/mongodb-deployment.yaml
+
 kubectl apply -f manifests/mongo-express.yaml
 
 
