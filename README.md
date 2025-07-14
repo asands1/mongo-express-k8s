@@ -9,7 +9,7 @@ It’s ideal for testing a local database environment with a visual interface fo
 
 
 git clone https://github.com/asands1/mongo-express-k8s.git
-cd mongo-express-k8s
+/n cd mongo-express-k8s
 
 
 ### ✅ 2. Prerequisites
