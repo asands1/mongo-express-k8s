@@ -50,6 +50,8 @@ cd mongo-express-k8s
 
 ### ✅ 1. Start Minikube
 
+#in terminal
+
 minikube start
 
 
